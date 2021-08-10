@@ -1,5 +1,7 @@
 # Write a C++ commandline application that encodes a set of WAV files to MP3
 
+This was a takehome excercise from a job interview.
+
 ## Requirements:
 
 - call application with path to folder as argument
